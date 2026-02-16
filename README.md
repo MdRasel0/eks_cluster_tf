@@ -21,7 +21,7 @@ Finally, configure the AWS CLI for Ubuntu or MAC.
 
 Install terraform and write the terraform code or Clone the code from Github repo.
 App Repository: https://github.com/MdRasel0/react-app-eno 
-Terraform repository: 
+Terraform repository: https://github.com/MdRasel0/eks_cluster_tf 
 
 Now run the code,
  
@@ -31,14 +31,7 @@ Initialize the code to download and setup all the related modules by giving the 
 # terrafrom plan
 # terraform apply –auto-approve
 
-
-
-
-
 AWS EKS Cluster overview:
-
-
-
 
 
 
